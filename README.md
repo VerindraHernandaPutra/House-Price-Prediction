@@ -2,6 +2,9 @@
 
 This project is focused on predicting house prices using regression techniques. The dataset contains features related to house characteristics, and the goal is to predict the house prices based on these features using machine learning algorithms.
 
+## Dataset
+https://www.kaggle.com/datasets/harishkumardatalab/housing-price-prediction
+
 ## Overview
 
 In this project, a dataset with various house features, such as size, location, number of rooms, etc., is used to train a regression model that can predict the price of a house. The project employs machine learning techniques to analyze the dataset and build predictive models.
